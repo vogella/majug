@@ -1,0 +1,1 @@
+Um die Files zu ändern, kann man InkScape verwenden.
