@@ -1,0 +1,8 @@
+0.
+ThorstenMaier
+@majug @thiloginkel Danke für den Vortag über Java concurrency. Java memory model und STM waren neu für mich.
+
+1.
+walery
+Danke an @thiloginkel für tollen Vortrag über #java #concurrency bei @majug #majug
+
